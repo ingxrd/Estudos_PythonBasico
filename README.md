@@ -33,6 +33,6 @@ Este repositório contém uma série de exercícios e conceitos relacionados ao 
 - **Parâmetros**
 
 ### Orientação a Objetos com Python
-- **Classes e Objetos
+- **Classes e Objetos**
 - **Construtores e Destrutores**
 
